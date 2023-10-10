@@ -1,0 +1,14 @@
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\bin\Debug\net7.0\students_scores.exe
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\bin\Debug\net7.0\students_scores.deps.json
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\bin\Debug\net7.0\students_scores.runtimeconfig.json
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\bin\Debug\net7.0\students_scores.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\bin\Debug\net7.0\students_scores.pdb
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\obj\Debug\net7.0\students_scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\obj\Debug\net7.0\students_scores.AssemblyInfoInputs.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\obj\Debug\net7.0\students_scores.AssemblyInfo.cs
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\obj\Debug\net7.0\students_scores.csproj.CoreCompileInputs.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\obj\Debug\net7.0\students_scores.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\obj\Debug\net7.0\refint\students_scores.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\obj\Debug\net7.0\students_scores.pdb
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\obj\Debug\net7.0\students_scores.genruntimeconfig.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\students_scores\obj\Debug\net7.0\ref\students_scores.dll
