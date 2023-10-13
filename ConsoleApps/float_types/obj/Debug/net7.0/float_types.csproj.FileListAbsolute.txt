@@ -1,0 +1,14 @@
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\bin\Debug\net7.0\float_types.exe
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\bin\Debug\net7.0\float_types.deps.json
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\bin\Debug\net7.0\float_types.runtimeconfig.json
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\bin\Debug\net7.0\float_types.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\bin\Debug\net7.0\float_types.pdb
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\obj\Debug\net7.0\float_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\obj\Debug\net7.0\float_types.AssemblyInfoInputs.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\obj\Debug\net7.0\float_types.AssemblyInfo.cs
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\obj\Debug\net7.0\float_types.csproj.CoreCompileInputs.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\obj\Debug\net7.0\float_types.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\obj\Debug\net7.0\refint\float_types.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\obj\Debug\net7.0\float_types.pdb
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\obj\Debug\net7.0\float_types.genruntimeconfig.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\float_types\obj\Debug\net7.0\ref\float_types.dll

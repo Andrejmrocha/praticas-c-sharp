@@ -1,0 +1,14 @@
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\bin\Debug\net7.0\integral_types.exe
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\bin\Debug\net7.0\integral_types.deps.json
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\bin\Debug\net7.0\integral_types.runtimeconfig.json
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\bin\Debug\net7.0\integral_types.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\bin\Debug\net7.0\integral_types.pdb
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\obj\Debug\net7.0\integral_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\obj\Debug\net7.0\integral_types.AssemblyInfoInputs.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\obj\Debug\net7.0\integral_types.AssemblyInfo.cs
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\obj\Debug\net7.0\integral_types.csproj.CoreCompileInputs.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\obj\Debug\net7.0\integral_types.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\obj\Debug\net7.0\refint\integral_types.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\obj\Debug\net7.0\integral_types.pdb
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\obj\Debug\net7.0\integral_types.genruntimeconfig.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\integral_types\obj\Debug\net7.0\ref\integral_types.dll

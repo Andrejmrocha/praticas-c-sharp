@@ -1,0 +1,14 @@
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\obj\Debug\net7.0\cast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\obj\Debug\net7.0\cast.AssemblyInfoInputs.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\obj\Debug\net7.0\cast.AssemblyInfo.cs
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\obj\Debug\net7.0\cast.csproj.CoreCompileInputs.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\bin\Debug\net7.0\cast.exe
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\bin\Debug\net7.0\cast.deps.json
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\bin\Debug\net7.0\cast.runtimeconfig.json
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\bin\Debug\net7.0\cast.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\bin\Debug\net7.0\cast.pdb
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\obj\Debug\net7.0\cast.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\obj\Debug\net7.0\refint\cast.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\obj\Debug\net7.0\cast.pdb
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\obj\Debug\net7.0\cast.genruntimeconfig.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\cast\obj\Debug\net7.0\ref\cast.dll
