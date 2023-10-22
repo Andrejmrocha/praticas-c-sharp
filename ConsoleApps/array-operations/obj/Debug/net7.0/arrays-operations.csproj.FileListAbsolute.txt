@@ -1,0 +1,14 @@
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\bin\Debug\net7.0\arrays-operations.exe
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\bin\Debug\net7.0\arrays-operations.deps.json
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\bin\Debug\net7.0\arrays-operations.runtimeconfig.json
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\bin\Debug\net7.0\arrays-operations.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\bin\Debug\net7.0\arrays-operations.pdb
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\obj\Debug\net7.0\arrays-operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\obj\Debug\net7.0\arrays-operations.AssemblyInfoInputs.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\obj\Debug\net7.0\arrays-operations.AssemblyInfo.cs
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\obj\Debug\net7.0\arrays-operations.csproj.CoreCompileInputs.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\obj\Debug\net7.0\arrays-operations.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\obj\Debug\net7.0\refint\arrays-operations.dll
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\obj\Debug\net7.0\arrays-operations.pdb
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\obj\Debug\net7.0\arrays-operations.genruntimeconfig.cache
+C:\Users\ajona\Desktop\c#\CsharpProjects\ConsoleApps\arrays-operations\obj\Debug\net7.0\ref\arrays-operations.dll
